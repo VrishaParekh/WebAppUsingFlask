@@ -1,0 +1,7 @@
+runtime: python37
+
+env_variables:
+    CLOUD_SQL_USERNAME: mysqluser
+    CLOUD_SQL_PASSWORD: *****
+    CLOUD_SQL_DATABASE: songs_db
+    CLOUD_SQL_CONNCTION_NAME: *****:*****:*****
